@@ -831,7 +831,7 @@ Before running the project, make sure you have:
 Open a terminal and run:
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/aimanameenmohammed/DVLD-Project.git
 ```
 
 Then:
@@ -839,8 +839,6 @@ Then:
 ```bash
 cd DVLD-Project
 ```
-
-> Replace `YOUR_REPOSITORY_URL` with the repository URL.
 
 ---
 
