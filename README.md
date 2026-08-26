@@ -136,6 +136,7 @@ Application Completion
 Driver
    ↓
 Driving License
+```
 ---
 The system connects the different stages together to simulate a real licensing process.
 ---
