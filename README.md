@@ -11,7 +11,7 @@
 </h3>
 
 <p align="center">
-  A complete desktop application for managing people, users, applications, tests, drivers, and driving licenses.
+ A complete desktop application for managing people, users, applications, tests, drivers, and driving licenses.
 </p>
 
 <p align="center">
